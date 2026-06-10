@@ -6,7 +6,6 @@
 
 **Ayekar Infotech Pvt Ltd** — engineering secure payment infrastructure, AI-driven products, and full-stack software for businesses that move fast.
 
-[![Website](https://img.shields.io/badge/Website-Coming_Soon-0A1224?style=for-the-badge&logo=googlechrome&logoColor=00E5C7)](#)
 [![Email](https://img.shields.io/badge/Email-Contact_Us-0A1224?style=for-the-badge&logo=gmail&logoColor=00E5C7)](mailto:ayekarinfotech@aol.com)
 
 </div>
