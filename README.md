@@ -64,8 +64,8 @@ Ayekar Infotech is a software company based in Maharashtra, India, focused on bu
 <div align="center">
 
 <!-- Replace YOUR_USERNAME below with your actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1224&title_color=00E5C7&icon_color=2D7FF9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1224&title_color=00E5C7" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayekarinfotech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1224&title_color=00E5C7&icon_color=2D7FF9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayekarinfotech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1224&title_color=00E5C7" alt="Top Languages" height="165"/>
 
 </div>
 
@@ -73,10 +73,10 @@ Ayekar Infotech is a software company based in Maharashtra, India, focused on bu
 
 Have a payment integration to ship, an AI idea to validate, or a product to build end-to-end?
 
-📧 **contact@ayekarinfotech.com** · 📍 Maharashtra, India
+📧 **ayekarinfotech@aol.com** · 📍 Maharashtra, India
 
 ---
 
 <div align="center">
-<sub>© 2026 Ayekar Infotech Pvt Ltd · Engineering trust into every transaction.</sub>
+<sub>© 2024 Ayekar Infotech Pvt Ltd · Engineering trust into every transaction.</sub>
 </div>
